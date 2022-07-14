@@ -12,6 +12,6 @@
 ![](https://i.imgur.com/yjc6VZe.png)
 2. 將任務的詳細資料爬進資料庫中 
 ![](https://i.imgur.com/Xwoez36.png)
-3. 立刻發簡訊至使用者的電子信箱當中
+3. 立刻發簡訊至使用者的電子信箱當中(定時檢查是否有新任務)
 ![](https://i.imgur.com/0KwvMCA.png)
 
